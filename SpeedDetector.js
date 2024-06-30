@@ -7,16 +7,16 @@ function checkSpeed(speed) {
 
     // Print the result
     if (demeritPoints === 0) {
-        console.log("Ok");
+        alert("Ok");
     } else {
         console.log(`Points: ${demeritPoints}`);
 
         // Check if the license should be suspended
         if (demeritPoints > 12) {
-            console.log("License suspended");
+            alert("License suspended");
         }
     }
 }
 
-// Test the function with a speed of 50 km/s
-checkSpeed(50);
+// Test the function with a speed of 70 km/h
+checkSpeed(70);
