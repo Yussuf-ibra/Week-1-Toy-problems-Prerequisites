@@ -2,7 +2,7 @@
 
 #### Date, 2024/06/30
 
-### By Ernest Fonseca Musau 
+### By Yussuf Ibrahim
 
 # Description
 Three distinct challenges are included in the series, all geared toward assessing the material presented this week. These are the challenges:
