@@ -29,9 +29,9 @@ Simply use the calculateDemeritPoints method to begin using the application. Thi
 Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
 NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
-https://www.aren.co.ke/payroll/taxrates.htmLinks to an external site.  
+https://www.aren.co.ke/payroll/taxrates.htm to an external site.  
 
-https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
+https://www.kra.go.ke/individual/calculate-tax/calculating-tax/paye to an external site.
 
 ### Solution
 Using an individual's base pay and benefits—basically, allowances—this tool determines their net compensation. The program's primary function is to calculate gross tax, NHIF and NSSF deductions, gross salary, and net salary. These functions are divided into multiple parts. The program's initial constants are taken from the URLs provided in the question. To traverse through the arrays and obtain the right values required for calculation, loops are employed. 
